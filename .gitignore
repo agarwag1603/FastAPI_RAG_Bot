@@ -1,0 +1,12 @@
+.DS_Store
+.env
+RAG_CHATBOT/.DS_Store
+RAG_CHATBOT/__pycache__/app.cpython-313.pyc
+RAG_CHATBOT/chroma_db/chroma.sqlite3
+RAG_CHATBOT/chroma_db/1761a647-2990-4a63-aa63-be2e353c26a3/data_level0.bin
+RAG_CHATBOT/chroma_db/1761a647-2990-4a63-aa63-be2e353c26a3/header.bin
+RAG_CHATBOT/chroma_db/1761a647-2990-4a63-aa63-be2e353c26a3/length.bin
+RAG_CHATBOT/chroma_db/1761a647-2990-4a63-aa63-be2e353c26a3/link_lists.bin
+RAG_CHATBOT/embedding/__pycache__/embedding_pdf.cpython-313.pyc
+RAG_CHATBOT/llm/__pycache__/llm_caller.cpython-313.pyc
+RAG_CHATBOT/schema/__pycache__/user_input.cpython-313.pyc
