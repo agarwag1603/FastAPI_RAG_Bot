@@ -25,4 +25,4 @@ docker run --env-file .env -p 8000:8000 stargazer/rag
 
 ## Streamlit app that is hitting the base url - BASE_URL = http://0.0.0.0:8000
 
-![alt text](image.png)
+![alt text](RAG_CHATBOT/images/image.png)
